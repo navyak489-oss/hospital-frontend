@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:8081/api";
+const API = "https://hospital-backend-6op0.onrender.com/api";
 
 const sections = {
   Dashboard: [],
